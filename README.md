@@ -40,7 +40,7 @@ Undergraduate student in Computer Networks and Data Communications at the **Univ
 <h2 align="left">Certificates</h2>
 
 <p align="center">
-    <a href="https://www.credly.com/badges/59061af2-fdc6-4860-88e2-f29da077f552/public_url">
+    <a href="https://www.credly.com/badges/54be72a5-9fdd-4bf0-8e0b-20b6019b24e3/public_url">
         <img src="aws-certified-cloud-practitioner.png" alt="AWS CLF" title="AWS Certified Cloud Practitioner" width="200" />
     </a>
 </p>
