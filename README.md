@@ -15,7 +15,8 @@ Undergraduate student in Computer Networks and Data Communications at the **Univ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="kubernetes" width="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" title="github actions" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="nginx" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="nginx" width="66" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/keycloak" title="keycloak" width="50" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
