@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&width=700&height=80&lines=Chau+Le+Quoc+Su;DevOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" /></a>
 </div>
 
-Undergraduate student in Computer Networks and Data Communications at the **University of Information Technology (VNUHCM - UIT)**. Passionate about DevOps, Cloud Computing, and infrastructure automation.
+Undergraduate student in **Computer Networks and Data Communications** at the **University of Information Technology (VNUHCM-UIT)**. Passionate about DevOps, Cloud Computing, and infrastructure automation.
 
 
 <!-- Tech stack -->
